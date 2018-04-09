@@ -1,2 +1,11 @@
 {
+  "db": {
+    "host": "ds139219.mlab.com",
+    "port": 39219,
+    "database": "awesomebloglb",
+    "password": "ospass",
+    "name": "db",
+    "user": "osuser",
+    "connector": "mongodb"
+  }
 }
