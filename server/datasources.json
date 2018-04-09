@@ -1,12 +1,2 @@
 {
-  "db": {
-    "host": "localhost",
-    "port": 27017,
-    "url": "",
-    "database": "awesomeblog-lb",
-    "password": "",
-    "name": "db",
-    "user": "",
-    "connector": "mongodb"
-  }
 }
